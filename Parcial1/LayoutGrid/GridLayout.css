@@ -44,3 +44,8 @@
                 }
     
 }
+
+.contenedor .caja:hover {
+    width: 500px;
+    transform: rotate(250deg);
+}
